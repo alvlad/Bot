@@ -15,7 +15,7 @@ pyOpenSSL==0.15.1
 pyTelegramBotAPI==3.2.1
 python-cloudfiles==1.7.10
 pytz==2017.2
-pyxdg==0.25
+pyxdg==0.26
 requests==2.7.0
 six==1.10.0
 telebot==0.0.3
